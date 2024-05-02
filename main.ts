@@ -31,3 +31,5 @@ if ("Addition" == answer.Operator) {
 } else {
   console.log("Invalid Input");
 }
+
+console.log("The End");
